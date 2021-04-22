@@ -547,7 +547,7 @@ this layer is implied to be a building, i.e. `building=yes` in OpenStreetMap.
 ###### *Enumerated values*:
 
 - `apartments`
-- `commercial
+- `commercial`
 - `hotel`
 - `house`
 - `residential`
